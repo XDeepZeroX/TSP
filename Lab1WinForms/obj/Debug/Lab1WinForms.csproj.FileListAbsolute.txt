@@ -1,0 +1,10 @@
+C:\Users\Компутер\YandexDisk\3 курс\6 семестр\VVV\Lab1WinForms\Lab1WinForms\bin\Debug\Lab1WinForms.exe.config
+C:\Users\Компутер\YandexDisk\3 курс\6 семестр\VVV\Lab1WinForms\Lab1WinForms\bin\Debug\Lab1WinForms.exe
+C:\Users\Компутер\YandexDisk\3 курс\6 семестр\VVV\Lab1WinForms\Lab1WinForms\bin\Debug\Lab1WinForms.pdb
+C:\Users\Компутер\YandexDisk\3 курс\6 семестр\VVV\Lab1WinForms\Lab1WinForms\obj\Debug\Lab1WinForms.csprojAssemblyReference.cache
+C:\Users\Компутер\YandexDisk\3 курс\6 семестр\VVV\Lab1WinForms\Lab1WinForms\obj\Debug\Lab1WinForms.Form1.resources
+C:\Users\Компутер\YandexDisk\3 курс\6 семестр\VVV\Lab1WinForms\Lab1WinForms\obj\Debug\Lab1WinForms.Properties.Resources.resources
+C:\Users\Компутер\YandexDisk\3 курс\6 семестр\VVV\Lab1WinForms\Lab1WinForms\obj\Debug\Lab1WinForms.csproj.GenerateResource.cache
+C:\Users\Компутер\YandexDisk\3 курс\6 семестр\VVV\Lab1WinForms\Lab1WinForms\obj\Debug\Lab1WinForms.csproj.CoreCompileInputs.cache
+C:\Users\Компутер\YandexDisk\3 курс\6 семестр\VVV\Lab1WinForms\Lab1WinForms\obj\Debug\Lab1WinForms.exe
+C:\Users\Компутер\YandexDisk\3 курс\6 семестр\VVV\Lab1WinForms\Lab1WinForms\obj\Debug\Lab1WinForms.pdb
